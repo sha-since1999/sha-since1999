@@ -52,7 +52,7 @@
 <hr>
 <a href="https://github.com/sha-since1999/CompitativeCodingPractice/
 ">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sha-since1999&repo=CompitativeCodingPractices"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sha-since1999&repo=CompitativeCodingPractice"/>
 </a>
 
 
