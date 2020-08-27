@@ -7,15 +7,15 @@
 - 📫 How to reach me: Rohits8853@gmail.com
 - ⚡ Fun fact: Comedian 😄
  
-[![Website](https://img.shields.io/website?label=Rohitsahu.me&style=for-the-badge&url=https%3A%2F%2google.com)](https://sha_since1999.com)
+[![Website](https://img.shields.io/website?label=Rohitsahu.me&style=for-the-badge&url=https%3A%2F%2google.com)](https://sha-since1999.github.io/rohitsahu.me/)
 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="https://github.com/sha-since1999/sha-since1999/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Sha-since1999 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="sha-since1999 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sha-since1999 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 <br />
@@ -49,9 +49,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sha-since1999&layout=compact)](https://github.com/sha-since1999/CompetitiveCodingPractice/)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sha-since1999&repo=CompetitiveCodingPractice)](https://github.com/sha-since1999/CompetitiveCodingPractice/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sha-since1999&repo=CompetitiveCodingPractice)](https://sha-since1999.github.io/CompetitiveCodingPractice/)
 
-[website]: https://sha_since1999.github.io
+[website]: https://sha-since1999.github.io/rohitsahu.me/
 [twitter]: https://twitter.com/sha_since1999
 [instagram]: https://instagram.com/sha_since1999
 [linkedin]: https://linkedin.com/in/sha-since1999
