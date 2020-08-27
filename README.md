@@ -50,8 +50,7 @@
 
 
 <hr>
-<a href="https://github.com/sha-since1999/CompetitiveCodingPractice/
-">
+<a href="https://github.com/sha-since1999/CompetitiveCodingPractice/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sha-since1999&repo=CompetitveCodingPractice"/>
 </a>
 
