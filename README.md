@@ -45,7 +45,7 @@
 
 ![Rohits's github stats](https://github-readme-stats.vercel.app/api?username=sha-since1999&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sha-since1999&layout=compact)](https://github.com/sha-since1999/CompetitiveCodingPractice/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sha-since1999&layout=compact)
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sha-since1999&repo=CompetitiveCodingPractice)](https://sha-since1999.github.io/CompetitiveCodingPractice/)
