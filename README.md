@@ -46,15 +46,10 @@
  
 [![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=sha-since1999)](https://github.com/sha-since1999/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sha-since1999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sha-since1999&layout=compact)](https://github.com/sha-since1999/CompetitiveCodingPractice/)
 
 
-<hr>
-<a href="https://github.com/sha-since1999/CompetitiveCodingPractice/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sha-since1999&repo=CompetitveCodingPractice"/>
-</a>
-
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sha-since1999&repo=CompetitiveCodingPractice)](https://github.com/sha-since1999/CompetitiveCodingPractice/)
 
 [website]: https://sha_since1999.github.io
 [twitter]: https://twitter.com/sha_since1999
