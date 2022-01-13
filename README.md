@@ -43,13 +43,11 @@
 <figure><embed src="https://wakatime.com/share/@789a23a6-2f02-4e89-9601-fa2b5afb0c6b/78a10246-8b0c-48ed-8394-4ea9e31deb7f.svg"></embed></figure>
 
 
-![Rohits's github stats](https://github-readme-stats.vercel.app/api?username=sha-since1999&show_icons=true&hide=issues,contribs&theme=blue-green)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sha-since1999&layout=compact)
+![Rohits's github stats](https://github-readme-stats.vercel.app/api?username=sha-since1999&show_icons=true&hide=issues,contribs&theme=blue-green)    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sha-since1999&repo=CompetitiveCodingPractice)](https://github.com/sha-since1999/CompetitiveCodingPractice/)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sha-since1999&repo=CompetitiveCodingPractice)](https://sha-since1999.github.io/CompetitiveCodingPractice/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sha-since1999&repo=My-PA-App)](https://github.com/sha-since1999/My-PA-App/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sha-since1999&repo=inno-doctor)](https://github.com/sha-since1999/inno-doctor/)
 
 [website]: https://sha-since1999.github.io/rohitsahu.me/
 [twitter]: https://twitter.com/sha_since1999
