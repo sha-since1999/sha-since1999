@@ -1,11 +1,12 @@
 ## Hi there, I'm Rohit sahu -[Sha_since1999][website] 👋
 
 
-- 🔭 I’m currently working on IOS app Development
-- 🌱 I’m currently learning swift UI/UX
+<!-- - 🔭 I’m currently working on AWS  -->
+- 🌱 I’m currently learning a Blockchain Technology  
 - 💬 Ask me about  Data Structure and CP
 - 📫 How to reach me: Rohits8853@gmail.com
-- ⚡ Fun fact: Comedian 😄
+- ⚡ Fun fact: Comedian😊 
+- Thought : Knowledge is power.
  
 [![Website](https://img.shields.io/website?label=Rohitsahu.me&style=for-the-badge&url=https%3A%2F%2google.com)](https://sha-since1999.github.io/rohitsahu.me/)
 
